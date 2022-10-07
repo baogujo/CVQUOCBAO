@@ -46,7 +46,7 @@ section{
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
-    margin-bottom: 120px;
+    margin-bottom: 70px;
 }
 section .title{
     position: relative;
@@ -266,6 +266,7 @@ section .title::after{
 .services, .teams{
     color:#fff;
     background-image: linear-gradient(to right, #808080, #330066);
+    padding-bottom: 140px;
 }
 .services .title::before,
 .teams .title::before{
