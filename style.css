@@ -266,7 +266,7 @@ section .title::after{
 .services, .teams{
     color:#fff;
     background-image: linear-gradient(to right, #808080, #330066);
-    padding-bottom: 140px;
+    padding-bottom: 150px;
 }
 .services .title::before,
 .teams .title::before{
